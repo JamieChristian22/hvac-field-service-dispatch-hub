@@ -1,0 +1,6 @@
+{
+  "name": "HVAC Dispatch Hub",
+  "description": "Mobile-first field-service dispatch and job tracking hub for HVAC technicians and dispatchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
